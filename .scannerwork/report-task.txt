@@ -1,0 +1,6 @@
+projectKey=afermon-passport-microsoft
+serverUrl=http://192.168.0.151:9000
+serverVersion=9.2.4.50792
+dashboardUrl=http://192.168.0.151:9000/dashboard?id=afermon-passport-microsoft
+ceTaskId=AX5ZQYJUHS4llhmXxzWa
+ceTaskUrl=http://192.168.0.151:9000/api/ce/task?id=AX5ZQYJUHS4llhmXxzWa

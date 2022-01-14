@@ -27,10 +27,19 @@
   "license": "MIT",
   "main": "./lib/",
   "dependencies": {
-    "pkginfo": "0.4.1",
-    "passport-oauth2": "1.6.1"
+    "passport-oauth2": "1.6.1",
+    "pkginfo": "0.4.1"
   },
   "engines": {
     "node": ">= 12.0.0"
+  },
+  "devDependencies": {
+    "make-node": "0.4.6",
+    "mocha": "2.x.x",
+    "chai": "2.x.x",
+    "chai-passport-strategy": "1.x.x"
+  },
+  "scripts": {
+    "test": "make test"
   }
 }
