@@ -1,6 +1,6 @@
 {
   "name": "@afermon/passport-microsoft",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Microsoft [Graph] authentication strategy for Passport.",
   "keywords": [
     "passport",
@@ -24,12 +24,7 @@
     "email": "opensource@seafish.io",
     "url": "https://seafish.io"
   },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "http://www.opensource.org/licenses/MIT"
-    }
-  ],
+  "license": "MIT",
   "main": "./lib/",
   "dependencies": {
     "pkginfo": "0.4.1",
