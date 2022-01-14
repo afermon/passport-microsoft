@@ -1,5 +1,5 @@
 {
-  "name": "passport-microsoft",
+  "name": "@afermon/passport-microsoft",
   "version": "0.2.0",
   "description": "Microsoft [Graph] authentication strategy for Passport.",
   "keywords": [
