@@ -1,6 +1,6 @@
 {
   "name": "passport-microsoft",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Microsoft [Graph] authentication strategy for Passport.",
   "keywords": [
     "passport",
@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/seanfisher/passport-microsoft.git"
+    "url": "git://github.com/afermon/passport-microsoft.git"
   },
   "author": {
     "name": "Sean Fisher",
@@ -32,10 +32,10 @@
   ],
   "main": "./lib/",
   "dependencies": {
-    "pkginfo": "0.2.x",
-    "passport-oauth2": "1.2.0"
+    "pkginfo": "0.4.1",
+    "passport-oauth2": "1.6.1"
   },
   "engines": {
-    "node": ">= 0.4.0"
+    "node": ">= 12.0.0"
   }
 }
